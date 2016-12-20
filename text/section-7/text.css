@@ -1,0 +1,42 @@
+.section-7 p.header3 {
+  font: 48px/48px "GothamProMedium", sans-serif;
+  margin-bottom: -12px;
+}
+
+.section-7 p.font6 {
+  font: 18px/18px "GothamProLight", sans-serif;
+  margin-top: 150px;
+  margin-bottom: -170px;
+}
+
+.section-7 p.font6 u {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.section-7 p.font6-1 {
+  font: 20px/20px "GothamProMedium", sans-serif;
+  margin-top: 150px;
+  margin-bottom: -170px;
+}
+
+.section-7 p.header4 {
+  font: 48px/48px "GothamProRegular", sans-serif;
+  margin-left: 20px;
+  margin-bottom: 64px;
+}
+
+.section-7 ul {
+  color: #F00;
+}
+
+.section-7 p.font6-2 {
+  font: 18px/18px "GothamProLight", sans-serif;
+  color: #000;
+  margin-top: 35px;
+  line-height: 1.5;
+}
+
+.section-7 p.font6-2 span {
+  text-transform: uppercase;
+}

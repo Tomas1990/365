@@ -1,0 +1,17 @@
+html body footer{
+		background: #303f9f;
+    	width: 100%;
+		height: 200px;
+}
+
+html body footer .footer{
+		color: #ffffff;
+		text-align: center;
+ 		font: 18px/36px "GothamProLight";
+ 		padding-top: 50px;
+}
+
+html body footer a{
+		color: #ffffff;
+		text-decoration: none;
+}

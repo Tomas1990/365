@@ -1,0 +1,29 @@
+.section-4 p.font4 {
+  font: 20px/20px "GothamProMedium", sans-serif;
+}
+
+.section-4 p.font4-1 {
+  font: 18.06px/18.06px "GothamProLight", sans-serif;
+  line-height: 1.5;
+}
+
+.section-3 div.text3 {
+	line-height: 1.5;
+}
+
+.section-4 .link a {
+  text-decoration: none;
+  color: red;
+  text-transform: uppercase;
+  padding: 21px 30px;
+  background: none;
+  border: 3px solid red;
+  border-radius: 6px;
+  font: 18px/18px "GothamProBold", sans-serif;
+}
+
+.section-4 .link a:hover {
+  background: red;
+  color: #fff;
+  border: none;
+}

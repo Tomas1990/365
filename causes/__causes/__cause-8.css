@@ -1,0 +1,15 @@
+html body .causes .wrapper .causes-content .cause-8{
+		width: 25%;
+		font: 20px/20px "GothamProMedium";
+		color: #333333;
+ 		text-align: center;
+ 		float: left;
+}
+
+html body .causes .wrapper .causes-content .cause-8 img{
+		margin: 14% auto;
+}
+
+html body .causes .wrapper .causes-content .cause-8 span{
+		font: 18px/18px "MyriadProRegular";
+}

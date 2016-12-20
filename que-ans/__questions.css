@@ -1,0 +1,21 @@
+html body .que-ans p{
+		color: #333333;
+ 		text-align: left;
+ 		font: 20px/20px "GothamProMedium";
+ 		float: left;
+ 		margin: 30px 0 0 32px;
+}
+
+html body .que-ans img{
+		margin: 26px 0 0 210px;
+		float: left;
+}
+
+html body .que-ans span{
+		color: #333333;
+ 		text-align: left;
+		font: 18px/30px "GothamProLight";
+		float: left;
+		margin: 40px 0 0 0;
+}
+

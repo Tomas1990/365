@@ -1,0 +1,26 @@
+html body .events .wrapper .selfconcept{
+	width: 100%;
+	float: left;
+}
+
+html body .events .wrapper .selfconcept .img{
+	width: 50%;
+	float: left;
+	position: relative;
+	top: 40px;
+}
+
+html body .events .wrapper .selfconcept .text{
+	width: 50%;
+	text-align: left;
+	float: left;
+	position: relative;
+	top: 40px;
+	color: #333333;
+	font: 18px/25px "GothamProLight";
+}
+
+html body .events .wrapper .selfconcept .text h4{
+	color: #333333;
+	font: 48px/48px "GothamProRegular";
+}

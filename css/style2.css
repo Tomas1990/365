@@ -1,0 +1,512 @@
+@import url(../fonts/fonts.css);
+@import url(../text/section-1/text.css);
+@import url(../text/section-2/text.css);
+@import url(../text/section-3/text.css);
+@import url(../text/section-4/text.css);
+@import url(../text/section-5/text.css);
+@import url(../text/section-6/text.css);
+@import url(../text/section-7/text.css);
+@import url(../text/section-8/text.css);
+
+.section-1 {
+  width: 100%;
+  height: 1103px;
+  background: url(../img/background.jpg) no-repeat top center;
+}
+
+.section-1 .wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-1 .title {
+  color: #fff;
+  text-align: center; 
+  margin-bottom: 0; 
+}
+
+.section-1 .right-col {
+  width: 50%;
+  float: right;
+  color: #b6f1ff;
+  margin-top: 62px;
+}
+
+.section-2 {
+  width: 100%;
+  height: 1103px;
+  margin-bottom: -25px;
+}
+
+.section-2 .wrapper-2 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-2 .img-section-2 {
+  width: 67px;
+  height: 67px;
+}
+
+.section-2 .title2 {
+  margin-top: 70px;
+  margin-bottom: 0; 
+  text-align: center; 
+}
+
+.section-2 div.unlim1 {
+  text-align: center;
+  float: left;
+  margin-left: 5%;
+  margin-top: 38px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim2 {
+  text-align: center;
+  float: left;
+  margin-top: 38px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim3 {
+  text-align: center;
+  float: left;
+  margin-top: 38px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim4 {
+  text-align: center;
+  float: left;
+  margin-top: 38px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim5 {
+  text-align: center;
+  float: left;
+  margin-left: 5%;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim6 {
+  text-align: center;
+  float: left;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim7 {
+  text-align: center;
+  float: left;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim8 {
+  text-align: center;
+  float: left;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim9 {
+  text-align: center;
+  float: left;
+  margin-left: 27.5%;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-2 div.unlim10 {
+  text-align: center;
+  float: left;
+  margin-top: 68px;
+  width: 22.5%;
+}
+
+.section-3 {
+  width: 100%;
+  background: #f5f5f5;
+}
+
+.section-3 .wrapper-3 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-3 .title3 {
+  padding-top: 1px;
+  text-align: center;
+}
+
+.section-3 .pic1 {
+  margin-top: 65px;
+  margin-left: 12.5%;
+  width: 25%;
+}
+
+.section-3 .text1 {
+  margin-top: -531px;
+  width: 50%;
+  float: right;
+}
+
+.section-3 div.events {
+  background: #f5f5f5;
+}
+
+.section-3 .pic2 {
+  margin-top: 67px;
+  margin-left: 60%;
+  width: 25%;
+  
+}
+
+.section-3 .text2 {
+  margin-top: -39%;
+  margin-right: 12.5%;
+  width: 50%;
+  float: left;
+}
+
+.section-3 .pic3 {
+  margin-top: 66px;
+  margin-left: 12.5%;
+  width: 25%;
+}
+
+.section-3 .text3 {
+  margin-top: -531px;
+  width: 50%;
+  float: right;
+}
+
+hr {
+  margin-top: 70px;
+  height: 2px;
+  color: #cfd8dc;
+  opacity: 0.2;
+}
+
+.section-3 hr.opacity {
+  margin-top: 70px;
+  height: 2px;
+  opacity: 0;
+}
+
+.section-4 {
+  width: 100%;
+}
+
+section-4 .wrapper-4 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-4 .img-section-4 {
+  width: 164px;
+  height: 62px;
+}
+
+.section-4 div.link {
+  margin: 0 auto;
+  width: 25%;
+  margin-bottom: 80px;
+}
+
+.section-4 .practice {
+  text-align: center;
+  float: left;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-left: 16.7%;
+  width: 25%;
+}
+
+.section-4 .theory {
+  text-align: center;
+  float: right;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 8%;
+  width: 41.7%;
+}
+
+.section-5 {
+  width: 100%;
+  background: #f5f5f5;
+}
+
+.section-5 .wrapper-5 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-5 .title4 {
+  text-align: center; 
+  margin-top: 0; 
+}
+
+.section-5 div.balloon {
+  position: absolute;
+  margin-top: -280px;
+}
+
+.section-5 div.gift {
+  float: right;
+  margin-top: -100px;
+  margin-right: 16.7%;
+}
+
+.section-5 div.town {
+  margin: 80px auto;
+  width: 65%;
+}
+
+.section-5 div.text4 {
+  text-align: center;
+  width: 65%;
+  margin: 0 auto;
+  padding-bottom: 55px;
+}
+
+.section-6 {
+  width: 100%;
+}
+
+.section-6 .wrapper-6 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-6 div.title5 {
+  text-align: center;
+  width: 16.7%;
+  margin: -65px auto;
+}
+
+.section-6 div.video {
+  width: 25%;
+  margin-top: 145px;
+  margin-left: 33%;
+  margin-bottom: 80px;
+}
+
+.section-7 {
+  width: 100%;
+}
+
+.section-7 .wrapper-7 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-7 div.title6 {
+  text-align: center;
+  width: 66.7%;
+  margin: 65px auto;
+}
+
+.section-7 .block1 {
+  width: 15%;
+  height: 172px;
+  border: solid rgba(0,0,0,0);
+  text-align: center;
+  background: url(../img/img-section-7/versions.png) no-repeat -120px -30px;
+  margin-top: 95px;
+  margin-bottom: 200px;
+  margin-left: 5%;
+}
+
+.section-7 .picture1 {
+  width: 100%;
+  height: 100%;
+}
+
+.section-7 .picture1:hover {
+  background: url(../img/img-section-7/versions.png) no-repeat -20px -466px;
+  width: 322px;
+  height: 550px;
+  margin-top: 440px;
+  margin-left: 5%;
+}
+
+
+.section-7 .block2 {
+  width: 20%;
+  height: 172px;
+  border: solid rgba(0,0,0,0);
+  text-align: center;
+  background: url(../img/img-section-7/versions.png) no-repeat -510px -30px;
+  margin-top: -379px;
+  margin-bottom: 200px;
+  margin-right: 55%;
+  float: right;
+}
+
+.section-7 .picture2 {
+  width: 100%;
+  height: 100%;
+}
+
+.section-7 .picture2:hover {
+  background: url(../img/img-section-7/versions.png) no-repeat -455px -466px;
+  width: 322px;
+  height: 550px;
+  margin-top: 440px;
+  margin-left: -50%;
+}
+
+.section-7 .block3 {
+  width: 20%;
+  height: 172px;
+  border: solid rgba(0,0,0,0);
+  text-align: center;
+  background: url(../img/img-section-7/versions.png) no-repeat -1030px -30px;
+  margin-top: -379px;
+  margin-bottom: 200px;
+  margin-right: 25%;
+  float: right;
+}
+
+.section-7 .picture3 {
+  width: 100%;
+  height: 100%;
+}
+
+.section-7 .picture3:hover {
+  background: url(../img/img-section-7/versions.png) no-repeat -990px -295px;
+  width: 322px;
+  height: 550px;
+  margin-top: 340px;
+  margin-left: -200%;
+}
+
+.section-7 .block4 {
+  width: 15%;
+  height: 172px;
+  border: solid rgba(0,0,0,0);
+  text-align: center;
+  background: url(../img/img-section-7/versions.png) no-repeat -1625px -30px;
+  margin-top: 95px;
+  margin-bottom: 200px;
+  margin-top: -379px;
+  margin-right: 5%;
+  float: right;
+}
+
+.section-7 .picture4 {
+  width: 100%;
+  height: 100%;
+}
+
+.section-7 .picture4:hover {
+  background: url(../img/img-section-7/versions.png) no-repeat -1590px -295px;
+  width: 322px;
+  height: 550px;
+  margin-top: 340px;
+  margin-left: -450%;  
+}
+
+.section-7 .hr1 {
+  margin-top: -174px;
+  opacity: 0.8;
+}
+
+.section-7 .switch {
+  width: 12%;
+  height: 5px;
+  background: #F00;
+  border: solid #F00;
+  border-radius: 20px;
+  margin-top: -17px;
+  margin-left: 58.6%;
+
+}
+
+.section-7 .text5 {
+  width: 50%;
+  margin-top: -112px;
+  padding-bottom: 80px;
+  float: right;
+}
+
+.section-8 {
+  width: 100%;
+  background: #f5f5f5;
+  margin-top: 57%;
+}
+ 
+.section-8 .wrapper-8 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-8 table {
+  margin-top: 80px;
+  border-spacing: 12px 3px;
+  border: none;
+  padding-bottom: 80px;
+}
+
+tr.noneBc {
+  background: rgba(0,0,0,0);
+}
+
+tr.noneBc1 {
+  background: rgba(0,0,0,0);
+}
+
+tr {
+  background: #fff;
+}
+
+td.opc {
+  opacity: 0;
+  border: none;  
+}
+
+td.opct {
+  opacity: 0;
+  border: none;  
+}
+
+td.firstCol {
+  padding: 21px 128px 21px 39px;
+  border: none;  
+}
+
+tr.noneB {
+  background: rgba(0,0,0,0);
+}
+
+td.opac {
+  opacity: 0;
+  border: none;  
+}
+
+.section-8 td.opac1 {
+  border-radius: 10px 10px 0 0;
+  border-color: #f00;
+  border: 0.3px;
+  background: #f00;
+  padding: 26px 45px 26px 45px;
+  font: 20px/20px "GothamProMedium", sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+td.ord {
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  border-color: #fff;
+  border: 0.3px;
+  background: #fff;
+  padding: 22px 32px;
+  -webkit-box-shadow: 0px 4px 4px -2px rgba(194,192,194,1);
+  -moz-box-shadow: 0px 4px 4px -2px rgba(194,192,194,1);
+  box-shadow: 0px 4px 4px -2px rgba(194,192,194,1);
+}

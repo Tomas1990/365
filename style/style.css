@@ -1,0 +1,58 @@
+@import url(../fonts/__font.css);
+@import url(../wrapper/__wrapper.css);
+
+@import url(../year/__section-1.css);
+@import url(../year/__title.css);
+@import url(../year/__right-col/__right-col.css);
+@import url(../year/__right-col/__button-1.css);
+@import url(../year/__right-col/__h3.css);
+@import url(../year/__right-col/__p.css);
+
+@import url(../causes/__section-2.css);
+@import url(../causes/__title.css);
+@import url(../causes/__causes/__cause-1.css);
+@import url(../causes/__causes/__cause-2.css);
+@import url(../causes/__causes/__cause-3.css);
+@import url(../causes/__causes/__cause-4.css);
+@import url(../causes/__causes/__cause-5.css);
+@import url(../causes/__causes/__cause-6.css);
+@import url(../causes/__causes/__cause-7.css);
+@import url(../causes/__causes/__cause-8.css);
+@import url(../causes/__causes/__cause-9.css);
+@import url(../causes/__causes/__cause-10.css);
+
+@import url(../events/__section-3.css);
+@import url(../events/__title.css);
+@import url(../events/__matrix.css);
+@import url(../events/__denetica.css);
+@import url(../events/__selfconcept.css);
+@import url(../events/__childhood.css);
+@import url(../events/__method.css);
+@import url(../events/__selfconfidence.css);
+@import url(../events/__sphere.css);
+
+@import url(../onetwo/__section-4.css);
+@import url(../onetwo/__button-2.css);
+@import url(../onetwo/__onetwo.css);
+
+/* Казаров Армен */
+
+@import url(../counter/__section-9.css);
+@import url(../counter/__title.css);
+@import url(../counter/__timer.css);
+@import url(../counter/__button-3.css);
+
+@import url(../pay-met/__section-10.css);
+@import url(../pay-met/__title.css);
+@import url(../pay-met/__money.css);
+@import url(../pay-met/__calendar.css);
+
+@import url(../unlim/__section-11.css);
+@import url(../unlim/__title.css);
+@import url(../unlim/__steps.css);
+
+@import url(../que-ans/__section-12.css);
+@import url(../que-ans/__title.css);
+@import url(../que-ans/__questions.css);
+
+@import url(../footer/__section-13.css);

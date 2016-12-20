@@ -1,0 +1,23 @@
+html body .counter .wrapper .button-3 {
+
+}
+
+html body .counter .wrapper a {
+ 		text-decoration: none;
+ 		color: red;
+ 		text-transform: uppercase;
+ 		padding: 20px 40px;
+ 		background: none;
+ 		border: 3px solid red;
+ 		border-radius: 6px;
+ 		font: 18px/18px "GothamProBold";
+ 		position: absolute;
+		margin: 15% -19.5%;
+}
+ 	
+html body .counter .wrapper a:hover {
+ 		background: red;
+ 		color: #fff;
+ 		border: none;
+ 		transition: 0.5s;
+}

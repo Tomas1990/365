@@ -1,0 +1,11 @@
+html body .year .wrapper .title {
+ 		color: #fff;
+ 		text-align: center;
+ 		font: 30px/30px "GothamProRegular";
+}
+
+html body .year .wrapper .title h1 {
+ 		margin-top: 0;
+ 		padding-top: 100px;
+ 		font: 60px/60px "GothamProBold";
+}

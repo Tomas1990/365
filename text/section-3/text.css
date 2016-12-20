@@ -1,0 +1,34 @@
+.section-3 h4 {
+  font: 48px/48px "GothamProMedium", sans-serif;
+  margin-top: 63px;
+  margin-bottom: 20px;
+}
+
+.section-3 p.font3 {
+  font: 24px/24px "GothamProLight", sans-serif;
+  line-height: 1.5;
+  margin-bottom: 58px;
+}
+
+.section-3 p.font3-1 {
+  font: 18px/18px "GothamProLight", sans-serif;
+  line-height: 1.5;
+}
+
+.section-3 div.text1 {
+	line-height: 1.5;
+}
+
+.section-3 .header {
+  font: 48px/48px "GothamProRegular", sans-serif;
+  margin-bottom: 5px;
+}
+
+.section-3 div.text2 {
+  line-height: 1.5;
+  text-align: right;
+}
+
+.section-3 div.text3 {
+	line-height: 1.5;
+}

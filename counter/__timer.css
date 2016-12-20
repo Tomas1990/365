@@ -1,0 +1,70 @@
+html body .counter .wrapper .timer{
+		width: 100%;
+		color: #ffffff;
+}
+
+html body .counter .wrapper .timer p{
+		color: #333333;
+ 		text-align: center;
+ 		font: 20px/20px "GothamProMedium";
+}
+
+html body .counter .wrapper .timer .hour{
+		float: left;
+		width: 76px;
+		height: 76px;
+		background: #ff1744;
+		border-radius: 8px;
+		margin-left: 38%;
+}
+
+html body .counter .wrapper .timer .hour h1{
+		text-align: center;
+		font: 48px/10px "GothamProMedium";
+}
+
+html body .counter .wrapper .timer .hour p{
+		color: #333333;
+ 		text-align: center;
+ 		font: 18px/18px "GothamProLight";
+}
+
+html body .counter .wrapper .timer .minute{
+		float: left;
+		width: 76px;
+		height: 76px;
+		background: #ff1744;
+		border-radius: 8px;
+		margin-left: 20px;
+}
+
+html body .counter .wrapper .timer .minute h1{
+		text-align: center;
+		font: 48px/10px "GothamProMedium";
+}
+
+html body .counter .wrapper .timer .minute p{
+		color: #333333;
+ 		text-align: center;
+ 		font: 18px/18px "GothamProLight";
+}
+
+html body .counter .wrapper .timer .second{
+		float: left;
+		width: 76px;
+		height: 76px;
+		background: #ff1744;
+		border-radius: 8px;
+		margin-left: 20px;
+}
+
+html body .counter .wrapper .timer .second h1{
+		text-align: center;
+		font: 48px/10px "GothamProMedium";
+}
+
+html body .counter .wrapper .timer .second p{
+		color: #333333;
+ 		text-align: center;
+ 		font: 18px/18px "GothamProLight";
+}

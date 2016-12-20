@@ -1,0 +1,21 @@
+html body .year .wrapper .right-col .button-1 {
+		margin-top: 110px;
+}
+
+html body .year .wrapper .right-col a {
+ 		text-decoration: none;
+ 		color: red;
+ 		text-transform: uppercase;
+ 		padding: 30px 60px;
+ 		background: none;
+ 		border: 3px solid red;
+ 		border-radius: 6px;
+ 		font: 24px/24px "GothamProBlack";
+}
+ 	
+html body .year .wrapper .right-col a:hover {
+ 		background: red;
+ 		color: #fff;
+ 		border: none;
+ 		transition: 0.5s;
+}

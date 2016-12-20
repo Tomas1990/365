@@ -1,0 +1,22 @@
+html body .onetwo .wrapper .button-2 {
+		margin: 110px 0 0 35%;
+		float: left;
+}
+
+html body .onetwo .wrapper a {
+ 		text-decoration: none;
+ 		color: red;
+ 		text-transform: uppercase;
+ 		padding: 20px 40px;
+ 		background: none;
+ 		border: 3px solid red;
+ 		border-radius: 6px;
+ 		font: 18px/18px "GothamProBold";
+}
+ 	
+html body .onetwo .wrapper a:hover {
+ 		background: red;
+ 		color: #fff;
+ 		border: none;
+ 		transition: 0.5s;
+}

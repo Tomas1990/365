@@ -1,0 +1,29 @@
+html body .money p{
+		color: #333333;
+ 		text-align: left;
+ 		font: 20px/20px "GothamProMedium";
+ 		margin: 76px 35px;
+ 		float: left;
+}
+
+html body .money .money-img{
+		margin: 76px 0 0 210px;
+		float: left;
+		height: 44px;
+		width: 60px;
+		background: #FFF url(img/money.png) no-repeat bottom center;
+}
+
+html body .money .money-img:hover{
+		background: #FFF url(img/money.png) no-repeat top center;
+}
+
+html body .money span{
+		font: 18px/18px "GothamProLight";
+}
+
+html body .money {
+		width: 100%;
+		height: 30%;
+		float: left;
+}

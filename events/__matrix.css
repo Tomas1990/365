@@ -1,0 +1,30 @@
+html body .events .wrapper .matrix{
+	width: 100%;
+	float: left;
+}
+
+html body .events .wrapper .matrix hr{
+	top: 0 !important;
+}
+
+html body .events .wrapper .matrix .img{
+	width: 50%;
+	float: left;
+	position: relative;
+	top: 30px;
+}
+
+html body .events .wrapper .matrix .text{
+	width: 50%;
+	text-align: left;
+	float: left;
+	position: relative;
+	top: 30px;
+	color: #333333;
+	font: 18px/25px "GothamProLight";
+}
+
+html body .events .wrapper .matrix .text h4{
+	color: #333333;
+	font: 48px/48px "GothamProRegular";
+}

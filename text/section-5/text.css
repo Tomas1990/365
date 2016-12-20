@@ -1,0 +1,18 @@
+.section-5 p.header1 {
+  font: 48px/48px "GothamProMedium", sans-serif;
+  padding-top: 80px;
+  margin-bottom: -12px;
+}
+
+.section-5 p.font5 {
+  font: 24px/24px "GothamProLight", sans-serif;
+}
+
+.section-5 p.font5-1 {
+  font: 24px/24px "GothamProMedium", sans-serif;
+}
+
+.section-5 p.font5-2 {
+  font: 18px/18px "GothamProLight", sans-serif;
+  line-height: 1.5;
+}

@@ -1,0 +1,28 @@
+.step-2, .step-3, .step-4{
+		width: 22%;
+		font: 20px/20px "GothamProMedium";
+		color: #333333;
+ 		text-align: center;
+ 		float: left;
+}
+.step-1{
+		width: 22%;
+		font: 20px/20px "GothamProMedium";
+		color: #ff1744;
+		text-align: center;
+ 		float: left;
+}
+
+html body .unlim .wrapper img{
+		margin: 15% auto;
+}
+
+html body .unlim .wrapper span{
+		font: 18px/18px "GothamProLight";
+}
+
+.transition{
+		width: 4%;
+		float: left;
+		margin-top: 60px;
+}
